@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/BGU-lab-app/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/BGU-lab-app/static/js/main.7ae5ed5a.chunk.js",
+    "main.js.map": "/BGU-lab-app/static/js/main.7ae5ed5a.chunk.js.map",
+    "runtime-main.js": "/BGU-lab-app/static/js/runtime-main.91b224fd.js",
+    "runtime-main.js.map": "/BGU-lab-app/static/js/runtime-main.91b224fd.js.map",
+    "static/css/2.6bdb8584.chunk.css": "/BGU-lab-app/static/css/2.6bdb8584.chunk.css",
+    "static/js/2.609a97f4.chunk.js": "/BGU-lab-app/static/js/2.609a97f4.chunk.js",
+    "static/js/2.609a97f4.chunk.js.map": "/BGU-lab-app/static/js/2.609a97f4.chunk.js.map",
+    "static/js/3.c3439ea8.chunk.js": "/BGU-lab-app/static/js/3.c3439ea8.chunk.js",
+    "static/js/3.c3439ea8.chunk.js.map": "/BGU-lab-app/static/js/3.c3439ea8.chunk.js.map",
+    "index.html": "/BGU-lab-app/index.html",
+    "static/css/2.6bdb8584.chunk.css.map": "/BGU-lab-app/static/css/2.6bdb8584.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/BGU-lab-app/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.609a97f4.chunk.js.LICENSE.txt": "/BGU-lab-app/static/js/2.609a97f4.chunk.js.LICENSE.txt",
+    "static/js/main.7ae5ed5a.chunk.js.LICENSE.txt": "/BGU-lab-app/static/js/main.7ae5ed5a.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/BGU-lab-app/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91b224fd.js",
+    "static/css/2.6bdb8584.chunk.css",
+    "static/js/2.609a97f4.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7ae5ed5a.chunk.js"
+  ]
+}
