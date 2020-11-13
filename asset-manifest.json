@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/BGU-lab-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/BGU-lab-app/static/js/main.a049cef1.chunk.js",
-    "main.js.map": "/BGU-lab-app/static/js/main.a049cef1.chunk.js.map",
-    "runtime-main.js": "/BGU-lab-app/static/js/runtime-main.eb930a09.js",
-    "runtime-main.js.map": "/BGU-lab-app/static/js/runtime-main.eb930a09.js.map",
+    "main.js": "/BGU-lab-app/static/js/main.aa46f54d.chunk.js",
+    "main.js.map": "/BGU-lab-app/static/js/main.aa46f54d.chunk.js.map",
+    "runtime-main.js": "/BGU-lab-app/static/js/runtime-main.e6bf5945.js",
+    "runtime-main.js.map": "/BGU-lab-app/static/js/runtime-main.e6bf5945.js.map",
     "static/css/2.220a9581.chunk.css": "/BGU-lab-app/static/css/2.220a9581.chunk.css",
-    "static/js/2.8621e0b6.chunk.js": "/BGU-lab-app/static/js/2.8621e0b6.chunk.js",
-    "static/js/2.8621e0b6.chunk.js.map": "/BGU-lab-app/static/js/2.8621e0b6.chunk.js.map",
-    "static/js/3.ba3675b3.chunk.js": "/BGU-lab-app/static/js/3.ba3675b3.chunk.js",
-    "static/js/3.ba3675b3.chunk.js.map": "/BGU-lab-app/static/js/3.ba3675b3.chunk.js.map",
+    "static/js/2.fa30dc53.chunk.js": "/BGU-lab-app/static/js/2.fa30dc53.chunk.js",
+    "static/js/2.fa30dc53.chunk.js.map": "/BGU-lab-app/static/js/2.fa30dc53.chunk.js.map",
+    "static/js/3.ad9379a5.chunk.js": "/BGU-lab-app/static/js/3.ad9379a5.chunk.js",
+    "static/js/3.ad9379a5.chunk.js.map": "/BGU-lab-app/static/js/3.ad9379a5.chunk.js.map",
     "index.html": "/BGU-lab-app/index.html",
     "static/css/2.220a9581.chunk.css.map": "/BGU-lab-app/static/css/2.220a9581.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/BGU-lab-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.8621e0b6.chunk.js.LICENSE.txt": "/BGU-lab-app/static/js/2.8621e0b6.chunk.js.LICENSE.txt",
-    "static/js/main.a049cef1.chunk.js.LICENSE.txt": "/BGU-lab-app/static/js/main.a049cef1.chunk.js.LICENSE.txt",
+    "static/js/2.fa30dc53.chunk.js.LICENSE.txt": "/BGU-lab-app/static/js/2.fa30dc53.chunk.js.LICENSE.txt",
+    "static/js/main.aa46f54d.chunk.js.LICENSE.txt": "/BGU-lab-app/static/js/main.aa46f54d.chunk.js.LICENSE.txt",
     "static/media/logo.103b5fa1.svg": "/BGU-lab-app/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb930a09.js",
+    "static/js/runtime-main.e6bf5945.js",
     "static/css/2.220a9581.chunk.css",
-    "static/js/2.8621e0b6.chunk.js",
+    "static/js/2.fa30dc53.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a049cef1.chunk.js"
+    "static/js/main.aa46f54d.chunk.js"
   ]
 }
